@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sivasakthi Perumal
+# 👋 Hi, I’m Sivasakthiperumal
 
 ### 🌱 About Me
 I’m a **Java developer** and SQL enthusiast. I love building **console and desktop applications** that solve real-world problems and improve efficiency.
